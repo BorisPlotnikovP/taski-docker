@@ -7,7 +7,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['94.131.110.172', 'localhost', '127.0.0.1', '158.160.92.247']
+ALLOWED_HOSTS = ['sigmanote.sytes.net', 'localhost', '127.0.0.1', '158.160.92.247']
 
 
 # Application definitionыыы
